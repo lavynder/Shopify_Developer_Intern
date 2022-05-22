@@ -1,0 +1,2 @@
+cd SHOPIFY_BACKEND_DEVELOPER
+python shopify_backend_developer.py
