@@ -229,7 +229,7 @@ class main(bf, db):
                             desc_updated = bf().dataInput('PLEASE ENTER THE NEW DESCRIPTION')
                             
                             # UPDATES THE LOCATION INFORMATION
-                            db()._update_location(desc_updated, item, 'inventory')
+                            db()._update_location(desc_updated, location, 'inventory')
                             
                             # NOTIFIES THE USER THAT 
                             print('THIS LOCATION\'S DESCRIPTION HAS BEEN UPDATED')
