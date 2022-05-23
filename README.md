@@ -24,3 +24,7 @@ LOCATION4 was deleted.
 
 ITEM1 can be found in LOCATION1, originally with a stock of 10.
 The stock has been updated to 15.
+
+Features that could be added would be holding images, item pricing, and shipping features. 
+
+Also, certain parts of the main code could have been put into a separate module/methods in order to help readability and improve security. 
